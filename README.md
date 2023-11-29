@@ -33,7 +33,7 @@ print("Eigen values are",values,"and Eigen Vectors are",vectors)
 ```
 
 ## Output:
-![Alt text](output.png)
+![image](https://github.com/ILAIYADEEPAN/EIGENVALUES-AND-EIGENVECTORS/assets/147473334/25e070a8-7e6d-4489-b047-43a54c1ad57f)
 
 
 ## Result:
